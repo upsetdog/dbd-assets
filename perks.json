@@ -1068,7 +1068,7 @@
     "perk_name": "Hex: Undying",
     "description": "A Hex which maintains the vile powers that flow throughout the Trial. When Hex: Undying is active and a different Hex Totem is cleansed, that Hex will be transferred to a Dull Totem—so long as one exists. Survivors' Auras are revealed for 4/5/6 seconds when they are within 2 metres of any Totem.",
     "rating": 4.14,
-    "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_Undying.png"
+    "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_HexUndying.png"
   },
   {
     "name": "Freddy",
@@ -1082,7 +1082,7 @@
     "perk_name": "Hex: Retribution",
     "description": "A Hex that lashes out upon its destruction. Those who cross you will be punished. Any Survivor who cleanses a Dull Totem will suffer from the Oblivious Status Effect for 35/40/45 seconds. If any Hex Totem is cleansed, including this one, the Auras of all Survivors are revealed for 10 seconds.",
     "rating": 3.48,
-    "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_Retribution.png"
+    "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_HexRetribution.png"
   },
   {
     "name": "Clown",
@@ -1131,7 +1131,7 @@
     "perk_name": "Hex: Blood Favour",
     "description": "A Hex that gains the favour of The Entity when blood is spilt. When a Survivor is hit, all Pallets within a radius of 16 metres of your location are held in place by The Entity for 15 seconds and cannot be pulled down by Survivors. Hex: Blood Favour has a cool-down of 60/50/40 seconds.",
     "rating": 3.24,
-    "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_BloodFavour.png"
+    "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_HexBloodFavour.png"
   },
   {
     "name": "Nurse",
@@ -1209,5 +1209,47 @@
     "description": "As the end nears, you go in for the kill. Each time a Generator is completed, Coup de Grâce grows in power. Gain 1 Token per Generator. Consume 1 Token to increase the distance of your next Lunge Attack by 60/80/100 %.",
     "rating": 3.32,
     "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_CoupDeGrace.png"
+  },
+  {
+    "name": "Trickster",
+    "perk_name": "No Way Out",
+    "description": "You are not going to let just anyone into the VIP room. For each of the Survivors you manage to hook, No Way Out gains 1 Token: When the last Generator is completed, The Entity blocks both Exit Gate Switches for 10 seconds and an additional 4/6/8 seconds per Token in your possession, up to a combined maximum of 26/34/42 seconds.",
+    "rating": 3.67,
+    "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_NoWayOut.png"
+  },
+  {
+    "name": "Trickster",
+    "perk_name": "Hex: Crowd Control",
+    "description": "A Hex that ensures those lesser than you are properly herded. Survivors who perform a rushed vault through a Window prompt The Entity to block it for the next 10/12/14 seconds. The Hex effects persist as long as the related Hex Totem is standing.",
+    "rating": 3.57,
+    "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_HexCrowdControl.png"
+  },
+  {
+    "name": "Trickster",
+    "perk_name": "Starstruck",
+    "description": "Your unmatched showmanship dazzles all. When carrying a Survivor, Starstruck activates: Survivors suffer from the Exposed Status Effect while in your Terror Radius. The Status Effect lingers for 26/28/30 seconds after leaving your Terror Radius. After hooking or dropping the carried Survivor, Starstruck deactivates: The Status Effect persists for 26/28/30 seconds for any Survivor inside your Terror Radius at that moment. Starstruck has a cool-down of 60 seconds once the Survivor is no longer being carried.",
+    "rating": 3.57,
+    "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_Starstruck.png"
+  },
+  {
+    "name": "Nemesis",
+    "perk_name": "Lethal Pursuer",
+    "description": "You have been designed to track down and eliminate targets. At the start of the Trial, the Auras of all Survivors are revealed to you for 7/8/9 seconds.",
+    "rating": 3.92,
+    "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_LethalPursuer.png"
+  },
+  {
+    "name": "Nemesis",
+    "perk_name": "Eruption",
+    "description": "The NE-α parasite provides you with the intelligence and awareness needed to set a trap. After kicking a Generator , its Aura is highlighted in yellow. When you put a Survivor into the Dying State , every affected Generator explodes, regressing their progress by 6 % and causing their Auras to disappear. Any Survivor repairing a Generator when it explodes will scream and suffer from the Incapacitated Status Effect for 12/14/16 seconds. Eruption has a cool-down of 30 seconds",
+    "rating": 3.85,
+    "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_Eruption.png"
+  },
+  {
+    "name": "Nemesis",
+    "perk_name": "Hysteria",
+    "description": "You know how to brutalise one member of a team to cause a panic. Whenever you put a healthy Survivor into the Injured State , all injured Survivors suffer from the Oblivious Status Effect for 20/25/30 seconds. Hysteria has a cool-down of 30 seconds. ",
+    "rating": 2.33,
+    "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_Hysteria.png"
   }
 ]
