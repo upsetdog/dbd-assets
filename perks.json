@@ -1257,20 +1257,20 @@
     "perk_name": "Deadlock",
     "description": "You induce mental suffering by crushing any hope of escape. Whenever a Generator is completed, The Entity blocks the Generator with the most progression for 20/25/30 seconds. The Aura of the blocked Generator is revealed to you in white during this time.",
     "rating": 4.32,
-    "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_Deadlock.png"
+    "icon_url": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/56/Deadlock.gif/revision/latest/scale-to-width-down/128?cb=20210819114604"
   },
   {
     "name": "Pinhead",
     "perk_name": "Hex: Plaything",
     "description": "If there is at least one Dull Totem remaining in the Trial Grounds, Hex: Plaything activates on a random Totem each time a Survivor is hooked for the first time:\nThe Survivors suffers from the Cursed and Oblivious Status Effects until Hex: Plaything is cleansed. For the first 90 seconds, only the Cursed Survivor is able to cleanse the Hex Totem. The Aura of Hex: Plaything's Hex Totem is revealed to the Cursed Survivor within 24/20/16 metres. The Hex effects persist as long as the related Hex Totem is standing. ",
     "rating": 3.33,
-    "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_Plaything.png"
+    "icon_url": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d5/HexPlaything.gif/revision/latest/scale-to-width-down/128?cb=20210819114606"
   },
   {
     "name": "Pinhead",
     "perk_name": "Scourge Hook: Gift of Pain",
     "description": "At the start of the Trial, 4 random Hooks are changed into Scourge Hooks:\nThe Auras of Scourge Hooks are revealed to you in white. When a Survivor is unhooked from a Scourge Hook they suffer from the Haemorrhage and Mangled Status Effects. Both Status Effects are removed upon being healed. Upon being healed, the Survivor suffers from a 7/8/9% Healing and Repairing Action Speed penalty until they are injured again.",
     "rating": 4,
-    "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_ScourgeHookGiftOfPain.png"
+    "icon_url": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/86/ScourgeHookGiftOfPain.gif/revision/latest/scale-to-width-down/128?cb=20210819114606"
   }
 ]
