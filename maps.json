@@ -1,0 +1,324 @@
+[
+  {
+    "name": "The MacMillan Estate",
+    "maps": [
+      {
+        "name": "Coal Tower",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f6/IconMap_Ind_CoalTower.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6f/CoalTowerOutline.png"
+        ]
+      },
+      {
+        "name": "Groaning Storehouse",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/IconMap_Ind_Storehouse.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e6/GroaningStorehouseOutline.png"
+        ]
+      },
+      {
+        "name": "Ironworks of Misery",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/de/IconMap_Ind_Foundry.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4b/IronworksOfMiseryOutline.png"
+        ]
+      },
+      {
+        "name": "Shelter Woods",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d8/IconMap_Ind_Forest.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/73/ShelterWoodsOutline.png"
+        ]
+      },
+      {
+        "name": "Suffocation Pit",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/IconMap_Ind_Mine.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/15/SuffocationPitOutline.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Autohaven Wreckers",
+    "maps": [
+      {
+        "name": "Azarov's Resting Place",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/57/IconMap_Jnk_Office.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ae/AzarovsRestingPlaceOutline.png"
+        ]
+      },
+      {
+        "name": "Blood Lodge",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/IconMap_Jnk_Lodge.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/93/BloodLodgeOutline.png"
+        ]
+      },
+      {
+        "name": "Gas Heaven",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d2/IconMap_Jnk_GasStation.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fc/GasHeavenOutline.png"
+        ]
+      },
+      {
+        "name": "Wreckers' Yard",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3d/IconMap_Jnk_Scrapyard.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2f/WreckersYardOutline.png"
+        ]
+      },
+      {
+        "name": "Wretched Shop",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4d/IconMap_Jnk_Garage.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3b/WretchedShopOutline.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Coldwind Farm",
+    "maps": [
+      {
+        "name": "Fractured Cowshed",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/32/IconMap_Frm_Barn.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b8/FracturedCowshedOutline.png"
+        ]
+      },
+      {
+        "name": "Rancid Abattoir",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/IconMap_Frm_Slaughterhouse.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ae/RancidAbattoirOutline.png"
+        ]
+      },
+      {
+        "name": "Rotten Fields",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cd/IconMap_Frm_Cornfield.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2b/RottenFieldsOutline.png"
+        ]
+      },
+      {
+        "name": "The Thompson House",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/IconMap_Frm_Farmhouse.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/TheThompsonHouseOutline.png"
+        ]
+      },
+      {
+        "name": "Torment Creek",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/IconMap_Frm_Silo.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4f/TormentCreekOutline.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Crotus Prenn Asylum",
+    "maps": [
+      {
+        "name": "Disturbed Ward",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/77/IconMap_Asy_Asylum.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/ce/DisturbedWardOutline.png"
+        ]
+      },
+      {
+        "name": "Father Campbell's Chapel",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/87/IconMap_Asy_Chapel.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/72/FatherCampbellsChapelOutline.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Haddonfield",
+    "maps": [
+      {
+        "name": "Lampkin Lane",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/IconMap_Sub_Street.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3b/LampkinLaneOutline.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Backwater Swamp",
+    "maps": [
+      {
+        "name": "The Pale Rose",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c1/IconMap_Swp_ThePaleRose.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3c/ThePaleRoseOutline.png"
+        ]
+      },
+      {
+        "name": "Grim Pantry",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d0/IconMap_Swp_GrimPantry.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/40/GrimPantryOutline.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lery's Memorial Institute",
+    "maps": [
+      {
+        "name": "Treatment Theatre",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/15/IconMap_Hos_Treatment.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/80/TreatmentTheatreOutline.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Red Forest",
+    "maps": [
+      {
+        "name": "Mother's Dwelling",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/01/IconMap_Brl_MadHouse.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d4/MothersDwellingOutline.png"
+        ]
+      },
+      {
+        "name": "The Temple of Purgation",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d4/IconMap_Brl_Temple.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/33/TheTempleOfPurgationOutline.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Springwood",
+    "maps": [
+      {
+        "name": "Badham Preschool I",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/51/IconMap_Eng_ElmStreet.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/67/BadhamPreschools_I-III_Outline.png"
+        ]
+      },
+      {
+        "name": "Badham Preschool II",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/ca/IconMap_Eng_ElmStreet02.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/67/BadhamPreschools_I-III_Outline.png"
+        ]
+      },
+      {
+        "name": "Badham Preschool III",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/76/IconMap_Eng_ElmStreet03.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/67/BadhamPreschools_I-III_Outline.png"
+        ]
+      },
+      {
+        "name": "Badham Preschool IV",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8c/IconMap_Eng_ElmStreet04.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/eb/BadhamPreschool_IV_Outline.png"
+        ]
+      },
+      {
+        "name": "Badham Preschool V",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/14/IconMap_Eng_ElmStreet05.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2b/BadhamPreschool_V_Outline.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gideon Meat Plant",
+    "maps": [
+      {
+        "name": "The Game",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/IconMap_Fin_TheGame.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/eb/TheGameOutline_UpperFloor.png",
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ef/TheGameOutline_LowerFloor.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yamaoka Estate",
+    "maps": [
+      {
+        "name": "Family Residence",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/IconMap_Hti_Manor.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e4/FamilyResidenceOutline.png"
+        ]
+      },
+      {
+        "name": "Sanctum of Wrath",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b8/IconMap_Hti_Shrine.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/19/SanctumOfWrathOutline.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ormond",
+    "maps": [
+      {
+        "name": "Mount Ormond Resort",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d4/IconMap_Kny_Cottage.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ed/MountOrmondResortOutline.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hawkins National Laboratory",
+    "maps": [
+      {
+        "name": "The Underground Complex",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ab/IconMap_Qat_Laboratory.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7f/TheUndergroundComplexOutline.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Grave of Glenvale",
+    "maps": [
+      {
+        "name": "Dead Dawg Saloon",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8e/IconMap_Ukr_Saloon.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7f/DeadDawgSaloonOutline.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silent Hill",
+    "maps": [
+      {
+        "name": "Midwich Elementary School",
+        "thumbnail": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d5/IconMap_Wal_Level01.png",
+        "floors": [
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/MidwichElementarySchoolOutline_LowerFloor.png",
+          "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/MidwichElementarySchoolOutline_UpperFloors.png"
+        ]
+      }
+    ]
+  }
+]
