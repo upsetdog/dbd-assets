@@ -7,7 +7,7 @@ Dead By Daylight perk icons + perks in JSON format
 * Items
 * Item+Killer Add-ons
 * Offerings
-* Maps
+* ~~Maps~~
 
 See [https://github.com/upsetdog/dbd-api](here) for a public API that uses this data.
 
