@@ -118,6 +118,7 @@
     "rating": 4.61,
     "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_BorrowedTime.png"
   },
+  
   {
     "name": "Bill Overbeck",
     "perk_name": "Unbreakable",
@@ -565,6 +566,27 @@
     "description": "You keep a careful eye on objectives when they are slipping away. While repairing Generators, complete 5/4/3 Good or Great Skill Checks to activate Rookie Spirit for the remainder of the Trial: Once active, the Auras of any regressing Generators are revealed to you.",
     "rating": 3.99,
     "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_RookieSpirit.png"
+  },
+  {
+    "name": "Mikaela Reid",
+    "perk_name": "Clairvoyance",
+    "description": "There is an intrinsic energy in you that sees beyond your vision. Whenever you cleanse a Totem IconHelpLoading totem.png, Clairvoyance activates:When empty-handed, press and hold the Active Ability button to unlock your full Aura-reading potential, allowing you to see the Auras IconHelp auras.png of the Exit Gate Switches IconHelp exitGates.png, Generators IconHelpLoading generators.png, Hooks IconHelpLoading hook.png, and Chests IconHelp chests.png within 64 metres for 8/9/10 seconds.",
+    "rating": 3.50,
+    "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_Clairvoyance.png"
+  },
+   {
+    "name": "Mikaela Reid",
+    "perk_name": "Boon: Circle of Healing",
+    "description": "A Boon that offers comfort amidst the terror. Press and hold the Active Ability button near a Dull or Hex Totem to bless it and create a Boon Totem IconHelpLoading totem.png. Soft chimes ring out within a radius of 28 metres. Survivors inside the Boon Totem's range benefit from the following effects: 90/95/100 % bonus to all Healing Speeds. Unlocks the Self-Care ability, allowing to self-heal without needing a Med-Kit IconItems firstAidKit.png at 50 % of the normal Healing speed. Also benefits from the Healing Speed bonus, boosting the Self-Healing speed to 95/97.5/100 %. You can only bless one Totem at a time. All equipped Boon Perks are active on the Same Boon Totem.",
+    "rating": 4.25,
+    "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_BoonCircleOfHealing.png"
+  },
+   {
+    "name": "Mikaela Reid",
+    "perk_name": "Boon: Shadow Step",
+    "description": "A Boon that conceals the truth. Press and hold the Active Ability button near a Dull or Hex Totem to bless it and create a Boon Totem IconHelpLoading totem.png. Soft chimes ring out within a radius of 28 metres. Survivors inside the Boon Totem's range benefit from the following effects: Scratch Marks IconHelp scratchMarks.png are suppressed. Auras IconHelp auras.png are hidden from The Killer. Both effects linger for 2/3/4 seconds after leaving the Boon Totem's range. You can only bless one Totem at a time. All equipped Boon Perks are active on the Same Boon Totem.",
+    "rating": 4.00,
+    "icon_url": "https://github.com/upsetdog/dbd-assets/raw/main/icons/iconPerks_BoonShadowStep.png"
   },
   {
     "name": "All",
